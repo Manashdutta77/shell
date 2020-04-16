@@ -1,0 +1,270 @@
+sl
+toilet -f mono12 -F gay -t 'F1-DASIA' | lolcat -a -d 1
+toilet -f term -F gay " PUBG GLOBAL"
+echo -e "[40;38;5;82m [A PUBLIC PROJECT] "
+toilet -f wideterm -F border:gay -t 'MADE BY:- KING GAMING' | lolcat -a -d 1
+echo -e "[40;38;5;82m [WELCOME TO THE NEW WORLD OF HACKING] "
+echo -e "[40;38;5;82m [PLEASE ENTER YOUR USERNAME & PASSWORD] "
+read VIPname
+echo -e "[40;38;5;82m [PASSWORD] "
+read VIPpassword
+if [[ $VIPname == "OFFICIALKING"  && $VIPpassword == "KING143" ]]
+then
+touch /data/data/com.termux/files/home/king44
+FILE=/data/data/com.termux/files/home/king44
+if [ -f "$FILE" ]; then
+echo "WELCOME TO THE NEW WORLD OF HACKING"
+while true; do
+rm -rf /data/data/com.termux/files/home/king44
+echo ""
+echo ""
+echo -e "[40;38;5;82m [A PUBLIC PROJECT] "
+echo ""
+toilet -f wideterm -F border:gay -t 'MAIN MENU' | lolcat -a -d 1
+echo ""
+toilet -f term -F gay " 1. PUBG GLOBAL  [ANTIBAN]"
+toilet -f term -F gay " 2. RESET GL [GUEST]"
+toilet -f term -F gay " 3. ABOUT ME"
+toilet -f term -F gay " 4. EXIT"
+echo ""
+echo
+echo -n "CLICK ANY MENU, OR 0 OR 4 FOR EXIT: "
+read choice
+echo
+case $choice in
+1)
+while true; do
+echo ""
+toilet -f wideterm -F border:gay -t 'HACK MENU' | lolcat -a -d 1
+echo ""
+toilet -f term -F gay " PUBG GLOBAL"
+echo -e "[40;38;5;82m [A PUBLIC PROJECT] "
+toilet -f term -F gay 'GETTING INFO... WAIT...,'
+echo ""
+sleep 3
+neofetch | lolcat - a -d 3
+echo""
+toilet -f term -F gay " 1.  GET ANTIBAN CONNECTION FROM SERVER"
+toilet -f term -F gay " 2.  START [PUBG MOBILE]"
+toilet -f term -F gay " 3.  ABOUT ME"
+toilet -f term -F gay " 4.  BACK  "
+echo
+echo -n "CLICK ANY MENU, OR 0 OR 4 FOR BACK: "
+read choice
+echo
+case $choice in
+1)
+mkdir /storage/emulated/0/Download/KING-1
+wget https://github.com/OFFICIAL-KING/KING-1/raw/master/KING-1.zip
+unzip KING-1.zip
+echo "WAIT"
+echo -e "[40;38;5;82m [PLEASE WAIT...] "
+tsudo mv /data/data/com.termux/files/home/REAL_KING-1 /storage/emulated/0/Download/KING-1/
+tsudo mv /data/data/com.termux/files/home/FAKE_KING-1 /storage/emulated/0/Download/KING-1/
+tsudo mv /data/data/com.termux/files/home/KING_LOBBY.sh /storage/emulated/0/Download/KING-1/
+sleep 10
+echo -e "[40;38;5;82m [CONNECTING WITH SERVER] "
+rm -rf /data/data/com.termux/files/home/KING-1.zip
+rm -rf /data/data/com.tencent.ig/files
+touch /data/data/com.tencent.ig/files
+rm -rf /data/data/com.tencent.ig/app_crashrecord
+touch /data/data/com.tencent.ig/app_crashrecord
+rm -rf /data/media/0/Android/data/com.tencent.ig/files/login-identifier.txt /data/media/0/Android/data/com.tencent.ig/files/cacheFile.txt /data/media/0/Android/data/com.tencent.ig/files/ca-bundle.pem /data/media/0/Android/data/com.tencent.ig/files/vmpcloudconfig.json
+rm -rf /data/media/0/Android/data/com.tencent.ig/files/ProgramBinaryCache
+touch /data/media/0/Android/data/com.tencent.ig/files/ProgramBinaryCache
+rm -rf /storage/emulated/0/.backups /storage/emulated/0/.userReturn /storage/emulated/0/.profig.os /storage/emulated/0/.nomedia_1 /storage/emulated/0/foo /storage/emulated/0/MidasOversea /storage/emulated/0/Notes /storage/emulated/0/QTAudioEngine /storage/emulated/0/tencent
+touch /storage/emulated/0/.backups /storage/emulated/0/.userReturn /storage/emulated/0/.profig.os /storage/emulated/0/.nomedia_1 /storage/emulated/0/foo /storage/emulated/0/MidasOversea /storage/emulated/0/Notes /storage/emulated/0/QTAudioEngine /storage/emulated/0/tencent
+chattr +i /storage/emulated/0/tencent
+rm -rf /data/data/com.tencent.ig/cache
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/cache
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/ImageDownload
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/afd
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config
+touch /storage/emulated/0/Android/data/com.tencent.ig/cache
+touch /data/data/com.tencent.ig/cache
+touch /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo
+touch /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
+touch /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/ImageDownload
+touch /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir
+touch /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
+touch /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo
+touch /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/afd
+touch /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config
+rm -rf /storage/emulated/0/Paks
+cp -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks /storage/emulated/0/
+cp /storage/emulated/0/Download/KING-1/FAKE_KING-1/game_patch_0.17.0.11800.pak /sdcard/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.17.0.11800.pak
+cp /storage/emulated/0/Download/KING-1/FAKE_KING-1/game_patch_0.17.0.11801.pak /sdcard/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.17.0.11801.pak
+echo "WAIT"
+chmod 000 /data/data/com.tencent.ig/files/tss_tmp/* &> /dev/null
+echo -e "[40;38;5;82m [CONNECTED WITH SERVER] "
+sleep 3
+;;
+2)
+sleep 2
+toilet -f term -F gay "STARTING PUBG MOBILE..."
+sleep 5
+am start -n com.tencent.ig/com.epicgames.ue4.SplashActivity
+chmod 000 /data/data/com.tencent.ig/files/tss_tmp/* &> /dev/null
+sleep 60
+echo -e "[40;38;5;82m [CLEANING LOG & CACHE AUTOMATICLY] "
+while [ $(pidof 'com.tencent.ig') ]
+do
+[ $COUNT ];
+echo -e "[40;38;5;82m  [30;48;5;82m [33.33%]  [0m"
+rm -rf /data/data/com.tencent.ig/cache
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/cache
+rm -rf /data/data/com.tencent.ig/files/tss_tmp
+echo -e "[40;38;5;82m  [30;48;5;82m [66.66%]  [0m"
+rm -rf /data/data/com.tencent.ig/databases/*
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/cache
+rm -rf /storage/emulated/0/tencent
+rm -rf /storage/emulated/0/MidasOverse
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/tbslog
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/login-identifier.txt
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/cacheFile.txt
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/vmpcloudconfig.json
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/GameErrorNoRecords
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/AntiCheat.ini
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/IGH5CachePluginConfig.ini
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs/*
+echo -e "[40;38;5;82m  [30;48;5;82m [100%]  [0m"
+sleep 5
+echo -e "[38;5;82m NUMBER OF CLEAN---------> [38;5;198m $COUNT "
+let COUNT=COUNT+1
+toilet -f term -F border:gay -t 'KING ';
+if [ ! $(pidof 'com.tencent.ig') ]; then
+break
+fi
+done
+echo "PLEASE WAIT..."
+mv /data/data/com.tencent.ig/lib/libtprt.so /storage/emulated/0/Download/KING-1/FAKE_KING-1/
+mv /data/data/com.tencent.ig/lib/libUE4.so /storage/emulated/0/Download/KING-1/FAKE_KING-1/
+mv /data/data/com.tencent.ig/lib/libzlib.so /storage/emulated/0/Download/KING-1/FAKE_KING-1/
+sleep 10
+mv /storage/emulated/0/Download/KING-1/REAL_KING-1/libzlib.so /data/data/com.tencent.ig/lib/libzlib.so
+mv /storage/emulated/0/Download/KING-1/REAL_KING-1/libUE4.so /data/data/com.tencent.ig/lib/libUE4.so
+mv /storage/emulated/0/Download/KING-1/REAL_KING-1/libtprt.so /data/data/com.tencent.ig/lib/libtprt.so
+sleep 10
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.17.0.11800.pak
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/game_patch_0.17.0.11801.pak
+echo -e "[40;38;5;82m [PLEASE WAIT...] "
+pm install -r /data/app/com.tencent.ig*/base.apk
+sleep 5
+rm -rf /storage/emulated/0/Download/KING-1
+sleep 1
+chattr -i /data/data/com.tencent.ig/files /data/data/com.tencent.ig/app_crashrecord
+rm -rf /data/data/com.tencent.ig/files /data/data/com.tencent.ig/app_crashrecord
+chattr -i /storage/emulated/0/Android/data/com.tencent.ig/cache
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/cache
+chattr -i /storage/emulated/0/Android/data/com.tencent.ig/files/ProgramBinaryCache
+rm -rf /storage/emulated/0/Android/data/com.tencent.ig/files/ProgramBinaryCache
+chattr -i /storage/emulated/0/MT2
+rm -R /storage/emulated/0/MT2
+chattr -i /storage/emulated/0/.backups /storage/emulated/0/KING-1 /storage/emulated/0/.userReturn /storage/emulated/0/.profig.os /storage/emulated/0/.nomedia_1 /storage/emulated/0/foo /storage/emulated/0/MidasOversea /storage/emulated/0/Notes /storage/emulated/0/QTAudioEngine /storage/emulated/0/tencent
+rm -rf /storage/emulated/0/.backups /storage/emulated/0/KING-1 /storage/emulated/0/.userReturn /storage/emulated/0/.profig.os /storage/emulated/0/.nomedia_1 /storage/emulated/0/foo /storage/emulated/0/MidasOversea /storage/emulated/0/Notes /storage/emulated/0/QTAudioEngine /storage/emulated/0/tencent
+echo -e "[40;38;5;82m [SERVER DISCONNECTED] "
+;;
+3)
+toilet -f term -F gay ''
+echo "I AM KING"
+toilet -f term -F gay ''
+echo "TELEGRAM CHANNEL @king_gaming_hub"
+toilet -f term -F gay ''
+echo "THIS IS A PUBLIC PROJECT"
+toilet -f term -F gay ''
+echo "THANK YOU "
+toilet -f term -F gay ''
+;;
+4)
+break
+;;
+0)
+toilet -f term -F gay 'A PUBLIC PROJECT'
+break
+;;
+*)
+echo "INVALID NUMBER, TRY AGAIN  FROM 0 TO 4 "
+;;
+esac
+done
+;;
+2)
+clear
+toilet -f term -F gay 'GETTING INFO... WAIT,'
+echo ""
+sleep 3
+neofetch | lolcat - a -d 3
+PUBG="com.tencent.ig"
+if [ "$(whoami)" = "root" ]
+then if [ -d /data/data/$PUBG ]
+then if [ -d /data/data/$PUBG/shared_prefs ]
+then if [ -f /data/data/$PUBG/shared_prefs/device_id.xml ]
+then if grep 'uuid' /data/data/$PUBG/shared_prefs/device_id.xml > /dev/null 2>&1
+then
+sed -i "s/$(echo $(grep 'uuid' /data/data/$PUBG/shared_prefs/device_id.xml) | sed 's/<string name="uuid">//g' | sed 's/<\/string>//g')/$(head -c200 /dev/urandom | tr -dc a-z0-9)/g" /data/data/$PUBG/shared_prefs/device_id.xml
+echo "GUEST CHANGED"
+else echo "
+[41m[1;37muuid nit found in device_id.xml [0m
+"
+fi
+else echo "
+[41m[1;37m/data/data/$PUBG/shared_prefs/device_id.xml not exist[0m
+"
+fi
+else echo "
+[41m[1;37m/data/data/$PUBG not exist[0m
+"
+fi
+else echo "
+[41m[1;37m/data/data/$PUBG/shared_prefa not exist[0m
+"
+fi
+else echo "RUN WITH ROOT"
+fi
+clear
+if [ "$(whoami)" = "root" ]
+then
+echo "REMOVED BANNED ACCOUNT"
+else echo "RUN WITH ROOT"
+fi
+echo "DONE"
+;;
+3)
+toilet -f term -F gay ''
+echo "I AM KING"
+toilet -f term -F gay ''
+echo "TELEGRAM CHANNEL IS @king_gaming_hub"
+toilet -f term -F gay ''
+echo "THIS IS A PUBLIC PROJECT"
+toilet -f term -F gay ''
+echo "THANK YOU IAMX_YT"
+toilet -f term -F gay ''
+;;
+4)
+break
+;;
+0)
+echo "THANKS FOR USING KING GAMING PROJECT"
+break
+;;
+*)
+echo "INVALID NUMBER, TRY AGAIN FROM 0 TO 4 "
+;;
+esac
+done
+else
+echo "$FILE DOES NOT EXIST"
+fi
+echo -e "YOU CAN EXIT NOW"
+sl
+elif [ $VIPname != "OFFICIALKING" ]
+then
+echo -e "WRONG USERNAME AND PASSWORD"
+else
+echo -e "WRONG USERNAME AND PASSWORD"
+fi
